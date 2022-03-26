@@ -1,28 +1,28 @@
 #!yaml|gpg
 cloudflare:
-    zone_id:
+    key: |
         -----BEGIN PGP MESSAGE-----
 
-        hQEMA7ArHXoBMYR3AQf/SDAAG02B9uW6LKmr/hz7l7QT4Kzjj+8cMY4RzKAnCsNg
-        3H19Sbxz8wIKoKYJCQM8w5SK6vP+kua4O8hXaratKa8PzXrjC6qQkRX3MYNjLslH
-        Gfu8rjEoUydh57RCTULxU1P0QgtEufCPzlk9FtqGR4jrjGsbSxWyjXJGTkyy3EeS
-        8x++crv4iD3dfc9xXhGSOEImdZ2UWZ/e5LEgdbA3SaOewoxyQisd+03Otvnqnl2u
-        H2/6Wj82W6A57DutavovyXHFj8sPtwhxjDJNgauqLP7Y7KMW4T4sw6FAPuvxp/ho
-        CvMtZQ3TUrBNhUZBDjHFrq3FWgmIMyiYHuqNlsDpsdJbAb8m6yAl3C8bDgLHmYMv
-        MGksYv2O1tgWLGlIMz7kfqSNsg/7DEp35R6E9sBsZ6AXe4GYpkRjxo078UeTSJOO
-        QlFYNb4/Hc4fSXm7Qa/V9qxaR6qooDDGy5ZVKw==
-        =YoVZ
+        hQEMA7ArHXoBMYR3AQf/RgYiRo2k7HFGJdiiCEp7vuFOblvwGnHkTBEgebZ2GJgB
+        e3cNuivSaqRin1EEF6Uk2+CYpRk5TZ7j6x7kcGLGwB7POtfuzUaZY5gTWP0Z5YpN
+        JyICSsHJqqZrbIBcJTtHVL6CWjgyZGEWYez8nc7qm5fXg8IpMWVmLwdYAyoYYsm1
+        RPyVoPwWClFBDre5/atd4N2BaZPK7EPyJu447n5JuHdCe8c34xhFcsuiRCyGvJlm
+        skvroKck4+jGEFaCdHV2+2Hi3LFskZF2QkUtzWakcCIKauaRO+MP2XRnwNqyLxbI
+        F+jlM1RLz48Em9ZxmIk8Gq18QiowuGcwYqdALw1a+dJjAUEq2/jt3CzvqEtmAQ6m
+        nyQ2IMtW0fkmEMhAFDH4SzDgWuKc8tv7wgYPHYXQKv8dIx2XyeuAteYZnIYd/o+H
+        GIdAkPTPCCecf8pneCS62HqFwSbuoo3+Ui+NhA/gu8kFRBNB
+        =eAGu
         -----END PGP MESSAGE-----
-    token:
+    email:
         -----BEGIN PGP MESSAGE-----
 
-        hQEMA7ArHXoBMYR3AQgAlk5gI+QQT6k+qkTeAy3FKhdvsa2qC8Z0gJ0HnR86hDkC
-        XnxfxP1GDqZv4UCu1IzDPGhKL4HKPGm4A69r4jVWyOWEdTdR1ZKvU0AzHiE0YvHz
-        VA9yxtfQV7kf/r8kLNJ8XOt6YRtM53PCD1ixEiGhDwqNRJwRbIdN5Fz9lRs7ZE4Q
-        ml9KmqnMGliFxyooEoBEqm2SY6GT3oEqAkFxyjkYebcbxdxp+L7I0oxKeZKwYftH
-        ipthRTq9Z2yQwSJPdPBdLYFI+nJFirvLC+05jtVFnqJK7DZ3tUiL9GwSsnyNhgYA
-        fYFyovACdscbqYnQHlxf7ouY2ZBhxMOrkJF1wQXAatJjAcKWkmH8iD7y+nIaELDP
-        1YudS+klx9cjtkkeG1eto3sE4qX+YbP+Fb1sPhb3z05R8Cg40Wqm9nxl3J1kpS6f
-        Kc2a6xDy442/E/A4lYzsa5goFJbFOYrBtAhkrPtwhn+CtRTH
-        =VnjX
+        hQEMA7ArHXoBMYR3AQf/eqgkkr5UbhZ0SffUOSDNGeIQe5sTAYvD+DKykC4FCOFI
+        c/as5m5ZHuvbpJmD0Yoi83xIgCpZfhJh4MrZbFkyZLLNuB0ZbNizzrGmYEp6bugC
+        2tXWIcE1L7pJ9w8FZd2fQeoOGAyEZqSYs2Wcg2nk+It0LUtq3EiuxD6dYtN25bbk
+        2L8tf4puyZVc8t0Zk1+cSO7+UWkA7l5VV1RjC4XpYIoJshZnjuOl8xq2ekQXkh03
+        Wp1Ca67z53SNiaJSbrXz6NeV/HCnfUU3aUOAJTQlmsFk+In4QkA7uLawk6QKS4nr
+        8qeVLBszQvs+n86bhokcK7uWvJncCboRPq0lVKmBodJMAVR6ylbSScrzbyp3EX7q
+        9Pm+GITD8yiB5tChaTWB5jDovnBdwdqdAtFtFxhevpCpYyAM1V27ybEAsIS+vKbz
+        3RrP2j7crQC+ErGc9w==
+        =fsxM
         -----END PGP MESSAGE-----
