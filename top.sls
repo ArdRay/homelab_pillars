@@ -13,3 +13,5 @@ base:
   'vmk-srv-01':
     - modules.git_auth.git_auth
     - modules.acme.mxard_cloud
+  'vmk-ext-01':
+    - modules.git_auth.git_auth
