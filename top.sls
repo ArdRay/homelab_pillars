@@ -10,3 +10,6 @@ base:
     - modules.acme.acme
     - modules.git_auth.git_auth
     - modules.cicd.cicd
+  'vmk-srv-01':
+    - modules.git_auth.git_auth
+    - modules.acme.mxard_cloud
