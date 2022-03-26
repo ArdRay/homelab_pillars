@@ -1,28 +1,17 @@
 #!yaml|gpg
 git_auth:
-  local_git:
-    user: |
-      -----BEGIN PGP MESSAGE-----
-
-      hQEMA7ArHXoBMYR3AQgAilWcZ4rz0/AMY/hjLvTGtWXSymipbualpgphG+3WO42n
-      J+OphU9yxF+ETVq/UfKS0BPpC5+ZoXavdhEyi5Y30XmgZ6wqPbWRiSW3FinjL5fV
-      C7um1TXtYpxtTu1dExWI+knwTZ2ZTKwX/fVZcDO9va3WUTl4wpqWV+1fc6OBuge0
-      fY5QlsPGA/qQuXsapTDJ3k54OQZb5P6fnDGPRHKVX1veWYsauS8qwCfef98dlncy
-      yp4TxtMpIQRxYkWF0VkRZjprb1Eev+EtC2qusyVh3lqsmKzEdN12fMARBxnVwKb7
-      OFs2GOfmlllE13czmD32UTQB+NqrSn1g1r7AHxQiudI+AU2IO0VY4rZoElrSTIb3
-      3R/hE8nVNj+TgZiwkXP/zD1WrbFe49nDenpWBifoH/Qyp569tVsB12GOozPgYcY=
-      =89wS
-      -----END PGP MESSAGE-----
+  homelab_services:
+    user: automation_ro
     password: |
       -----BEGIN PGP MESSAGE-----
 
-      hQEMA7ArHXoBMYR3AQf/Qi2LvRUNXF5jKdcaQxAS2OE6XichlFi28VbDnvGC4w3C
-      E9kL9/+uK5W8A0vNUjJ17dGF6Kh9F6bIcqFn/2+pTCR2PhqaOe7l3wsQEkKF2FC3
-      MZInlTLvRdY1joU1HaNU0AHEStIxIUKu2e9gMpOgNOkz71BDiJu2EpkHFekKuuIz
-      apHZwFZO+EgOVDJuoZIYrQ7epxx4rx8sIwriDCtlHosO5cnDdzhQwFU8Wnezsz49
-      C972/0XUrJpboJXgr/SHwCUmIBd8efzFo0jXUGqmPboRQrR0u9FYjjnY29By+nK/
-      VdU77uOVQD4VgA2pkL1d7M5/3q8iNLNM4agLAmJj9dJRAWENewLOTkc1feAjIU/b
-      MHrA5PQC8ID2KygofKA6tMvsOlu0RWB20734SJHn3jpt8iazIyUZJbES8Um0y3vm
-      pJPQn+bljsrtaCXSESbsWgdu
-      =CrNp
+      hQEMA7ArHXoBMYR3AQgAvPrJFQHUbtkyqHWRQeDhcpsYzRO2GX8WFS/3v5gg1kEP
+      zFbPg6sgZf9cPIyRYYActFOkI25OpIj5OyKEcp3rG+EfKGNKwyO6MrZBW4IRHVrF
+      KRQ5BPO1rUBFiJwHkIC+3wPE2k3D3EaCnKizK0s2nayuQV41Z7t7kfGgKOe/qRSZ
+      a6eb043QXSfZzjkhtPKdNVSSaKUB1kVIZzYYgTgTwPbGKEfaIih/uhT1RrTIfrev
+      cNlTVsUjIWLwWRg/x5RItpcw8tPuXXwKSafY1HEBGOhf7cNNDVba362r5XPoK0fH
+      BMouQX3y5Q4tiaSKrD4Vgm06yDKDNeTn9ZX/aWN049JPASotezhLlBKd+e8gtGQL
+      2r0tYtan43Q5UFLJDV4Y7qo+FHAzW36oxRcoTxzXkV+BeYFd6Ju3REKnMRo03OA3
+      iTNl3lyiJ9erwRwweT4/pA==
+      =HVIM
       -----END PGP MESSAGE-----
