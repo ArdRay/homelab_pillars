@@ -15,3 +15,4 @@ base:
     - modules.acme.mxard_cloud
   'vmk-ext-01':
     - hosts.vmk-ext-01
+    - modules.acme.acme
