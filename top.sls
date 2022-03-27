@@ -15,6 +15,9 @@ base:
     - modules.git_auth.git_auth
     - modules.acme.mxard_cloud
     - modules.ldap.ldap
+    - modules.gitea.gitea
+    - modules.authelia.authelia
+    - modules.services.grafana
   'vmk-ext-01':
     - hosts.vmk-ext-01
     - modules.acme.acme
