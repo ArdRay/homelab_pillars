@@ -21,3 +21,10 @@ base:
   'vmk-ext-01':
     - hosts.vmk-ext-01
     - modules.acme.acme
+  'vmk-prod-01':
+    - hosts.vmk-prod-01
+    - modules.git_auth.git_auth
+    - modules.acme.mxard_cloud
+    - modules.prod-01.miniflux
+    - modules.prod-01.nextcloud
+    - modules.prod-01.vpn_creds
