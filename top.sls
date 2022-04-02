@@ -28,6 +28,8 @@ base:
     - modules.prod-01.miniflux
     - modules.prod-01.nextcloud
     - modules.prod-01.vpn_creds
+    - modules.prod-01.rente
+    - modules.prod-01.sftp
   'vmk-prod-02':
     - hosts.vmk-prod-02
     - modules.git_auth.git_auth
