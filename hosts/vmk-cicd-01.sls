@@ -1,5 +1,5 @@
 #!yaml|gpg
 certificates:
   - name: drone
-    domain: mxard.tech
+    domain: mxard.cloud
     position: int

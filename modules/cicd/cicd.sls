@@ -1,8 +1,8 @@
 #!yaml|gpg
 drone:
-  fqdn: drone.int.mxard.tech
+  fqdn: drone.int.mxard.cloud
   gitea:
-    fqdn: git.int.mxard.tech
+    fqdn: git.int.mxard.cloud
     client:
       id: 1b2a6da2-a539-4825-82a6-136b57d66832
       secret: |
