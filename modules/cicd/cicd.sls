@@ -4,19 +4,19 @@ drone:
   gitea:
     fqdn: git.int.mxard.cloud
     client:
-      id: 1b2a6da2-a539-4825-82a6-136b57d66832
+      id: 4c973745-5017-47ba-9def-0ac37a389963
       secret: |
         -----BEGIN PGP MESSAGE-----
 
-        hQEMA7ArHXoBMYR3AQgAtrsCD/O3yav3ldD2k3SyibIgeOhs+qMPpZDCH/+d6pID
-        nlwqSVl8juqQ+lTm15HVq/QlhulP8te2pPQ46WaoLzBknfcuA9QBhClwmHytQ/ZG
-        vO9Ums0Lgh5iodSSSgZl4cCR7UVa+H1BF96PYbOgvKNc3Wg/QDnPDvpNnCnhScvt
-        BNatmuJ7V2WXDqfvoj43BJUv6EFTEx/WDuTJnZZQYW7kAO6bE+Bj0GOTrQxsnO/P
-        S97jqZ5ByDl8++pjHOyYOzElLGZUQ9VQvFBhnhg+3KHFnj0kaX6GiOkT4f4XmX7w
-        7jwgNqPQoIxwYrIYiceOJAYogq1s40gXusL/xy1799JnAct6ziKzx5a0c8msJ/S7
-        QILNFtCMlGYQDQJBGrrK8fIRb9bKVhP8IEweSUAohtvr4WzaI3ZSG/GZYE/4lhXw
-        lTn7PLyjQdGtGrdvXUgfjgOquMAg4dEjEvklq9w4r4s7q54qg49n4w==
-        =eanE
+        hQEMA7ArHXoBMYR3AQgAksf2hIjPTT7HEfrYWujvFCqDp0tmERz13qGy7iNdV3sx
+        VauPdHPA08gZ7GmELQ82ttTDWLIpeJQozvIyGSKQpbV6nSBfl6QNnoxnJ1KjfUKC
+        WenwCA30MPEtJGmtQeawTx2Wcx/0zJxAKVO3sYUVWk+xdF0HKao+13GnbXnyUA0j
+        oDPY9jHwgPGODLG0zzypwytkKSp2BS0tNSuVqBOzGwQZmcPRINtVx8O7REwxSaqp
+        joE4VZ21aY51hK/sX1tFKgqGJa1jm+mAXvLnt3qGQq8pdZpLxTAvdT0UOQEjbhzc
+        zHtbc3SI9zXNL1oSMIDxQmfm4NSVwBAYUU21/Bnkl9JnAar5ECcwR6I25vA7pWOX
+        wGRyhY49mZ1BHEWmxopMqbzkG/tarTOp4/ODPQ+5ZgsKNFD+vdH1zRUWrg/fjjlQ
+        heLGNYwwZJm6hUicMZi5yA61oY84gEl6W+b5WdQoaxeacdKVrIM64A==
+        =pM/D
         -----END PGP MESSAGE-----
   rpc:
     secret: |
