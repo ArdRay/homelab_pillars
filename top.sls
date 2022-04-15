@@ -30,3 +30,4 @@ base:
     - hosts.vmk-prod-02
     - modules.git_auth.git_auth
     - modules.acme.mxard_cloud
+    - modules.prod-02.mempool
