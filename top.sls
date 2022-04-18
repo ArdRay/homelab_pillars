@@ -14,7 +14,6 @@ base:
     - modules.gitea.gitea
     - modules.authelia.authelia
     - modules.services.grafana
-    - modules.rpi-01.healthchecks
   'vmk-ext-01':
     - hosts.vmk-ext-01
     - modules.acme.acme
@@ -32,3 +31,5 @@ base:
     - modules.git_auth.git_auth
     - modules.acme.mxard_cloud
     - modules.prod-02.mempool
+  vmk-rpi-01':
+    - modules.rpi-01.healthchecks
