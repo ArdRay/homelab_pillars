@@ -44,3 +44,4 @@ healthchecks:
             2XGZuJgjuxS31MDaX/ycTXSGzDg=
             =pHe0
             -----END PGP MESSAGE-----
+    fqdn: healthchecks.int.mxard.cloud
