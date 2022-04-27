@@ -35,3 +35,4 @@ base:
     - hosts.vmk-rpi-01
     - modules.acme.acme
     - modules.rpi-01.healthchecks
+    - modules.rpi-01.telegram
