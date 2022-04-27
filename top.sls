@@ -31,7 +31,7 @@ base:
     - modules.git_auth.git_auth
     - modules.acme.mxard_cloud
     - modules.prod-02.mempool
-  vmk-rpi-01':
+  'vmk-rpi-01':
     - hosts.vmk-rpi-01
     - modules.acme.acme
     - modules.rpi-01.healthchecks
