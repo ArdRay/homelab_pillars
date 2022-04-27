@@ -1,6 +1,19 @@
 #!yaml|gpg
 healthchecks:
     email:
+        address: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQEMA7ArHXoBMYR3AQf/SqncI9cZbyXZjoBS0ysKkfaBEgQaVwDXHtLM16n8Cffm
+            xnkCLC6MnOGc/yuPzffRI29DWflghssF+FievL9RxDNpkNsIYuEk3XEzk3z6qch9
+            k4/DzJofsWHo/2dQQlJg6635GnGx9nBv1/hT9WRGHuND597qPEiTCSVcqKDU/HyK
+            ckxo8JAw1aEu84J0t7hc0rDqkgDayZSjIDNmZ2jjPRzk77W/xeEMPEpW6OYgrNQ3
+            hynhwzEfcb3EM0zaHNaebveuLsWhJdCq3oZO77sU4NrVgTgaekDX+K5oezuOnkHi
+            0R6AZSvmHtVS23FbaVA+tMj97OvPTqu0n1i6FoCS1tJOAVRQGZy1R7NQF8Z0Y7YA
+            ZcHjd395pjMg582gEwVk2k12ZqVwxdMZ5jzgxGXvK2rpPT21AeGdTYVAJ9smNA76
+            WCwBBNEXHlqF1o4A9Aa1
+            =kJ1P
+            -----END PGP MESSAGE-----
         host:
             server: smtp.gmail.com
             port: 587
