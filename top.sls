@@ -33,6 +33,3 @@ base:
     - modules.prod-02.mempool
   'vmk-rpi-01':
     - hosts.vmk-rpi-01
-    - modules.acme.acme
-    - modules.rpi-01.healthchecks
-    - modules.rpi-01.telegram

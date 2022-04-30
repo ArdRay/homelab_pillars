@@ -58,3 +58,17 @@ healthchecks:
             =pHe0
             -----END PGP MESSAGE-----
     fqdn: healthchecks.int.mxard.cloud
+    admin:
+        email: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQEMA7ArHXoBMYR3AQf9HRBwMG4gft8/pRwn3AuwHwfzJVwSF/9bnbFWi5Y3GeX2
+            iNrHvV3UT8iD5Re7JTvnwwZM0+mB/GzLUZo/eSJusFQxUAbeGbRNYl8IDvHtzNTq
+            b1Bd6a2RzmO9xMrSB0qAc7FW4/pBXPQddq+H1YIDh6PcCNJ7r6lLhFL92pRb8PwP
+            LZwxBo0Q86a/oLoe+aIJ9ed/8hCPCkVgw71aC3JVxGB1pAVWL2nnYlrGK7jJ3ISS
+            6MDA3D5r0SmOvyztBfZWYAFcnBosCNTjvv7fMQnR37l4GS3y/g8puoiyVf5SRjGG
+            1O3xOBqO/yPCmiGFmoIcy3PJ2ZmnAQFBpX4GpIw8J9JEATi9Eo4KNDd8Y9b8EAD1
+            A/pgV9XCPu1syv38vdRfNveGHKzsIM3N3rMvkCPyqIckaltwfObrnpPs6bOXM4bA
+            DsXm/pI=
+            =Qi1S
+            -----END PGP MESSAGE-----
