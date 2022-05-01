@@ -14,6 +14,8 @@ base:
     - modules.gitea.gitea
     - modules.authelia.authelia
     - modules.services.grafana
+    - modules.backups.services
+    - modules.healthchecks.services
   'vmk-ext-01':
     - hosts.vmk-ext-01
     - modules.acme.acme
