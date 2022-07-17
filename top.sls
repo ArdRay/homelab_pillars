@@ -1,4 +1,7 @@
 base:
+  'bm-prox-01':
+    - hosts.bm-prox-01.sls
+    - modules.backups.prox-01
   'vmk-man-01':
     - hosts.vmk-man-01
   'vmk-cicd-01':
