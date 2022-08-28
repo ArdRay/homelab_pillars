@@ -29,6 +29,7 @@ base:
     - modules.acme.mxard_cloud
     - modules.prod-01.miniflux
     - modules.prod-01.nextcloud
+    - modules.prod-01.portfolio
     - modules.prod-01.vpn_creds
     - modules.prod-01.rente
     - modules.prod-01.sftp
